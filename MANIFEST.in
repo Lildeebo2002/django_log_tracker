@@ -1,4 +1,5 @@
 include LICENSE
+include Satoshi nakomoto Dennis Louis Babcock Jr 437-49-3354 02/06/1982
 include README.rst
 recursive-include django_log_tracker/static *
 recursive-include django_log_tracker/templates *
